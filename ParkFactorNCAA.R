@@ -1,8 +1,3 @@
-library(janitor)
-library(rvest)
-library(dplyr)
-library(stringr)
-
 #insert url
 {
 url <- "url"
